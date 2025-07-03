@@ -1,6 +1,6 @@
 # Privacy Policy - SmartBillReminder
 
-**Last Updated:** December 19, 2024  
+**Last Updated:** July 03, 2025  
 **Version:** 1.0
 
 ---
