@@ -179,19 +179,6 @@ A: The app provides export functionality. Regular backups are recommended.
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-### Development Setup
-```bash
-git clone https://github.com/smartappsfactorydev/SmartBillReminder.git
-cd SmartBillReminder
-./gradlew build
-```
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -431,19 +418,6 @@ O: Powiadomienia używają domyślnego dźwięku powiadomień urządzenia.
 
 **P: Czy moje dane są kopiowane?**
 O: Aplikacja zapewnia funkcjonalność eksportu. Zalecane są regularne kopie zapasowe.
-
----
-
-## 🤝 Współtworzenie
-
-Zachęcamy do współtworzenia! Zobacz nasze [Wytyczne współtworzenia](CONTRIBUTING.md) dla szczegółów.
-
-### Konfiguracja deweloperska
-```bash
-git clone https://github.com/smartappsfactorydev/SmartBillReminder.git
-cd SmartBillReminder
-./gradlew build
-```
 
 ---
 
