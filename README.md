@@ -23,7 +23,7 @@ Smart Bill Reminder is an advanced Android mobile application designed for moder
 - ✅ **Multilingual** - English and Polish support
 - ✅ **GDPR Compliant** - Full privacy compliance
 
-### 🚀 Latest Updates - v1.0.67 (December 2024)
+### 🚀 Latest Updates - v1.0.550 (July 2025)
 
 #### ✨ New Features
 - **Enhanced User Interface** - Improved user experience and interface design
@@ -240,7 +240,7 @@ Smart Bill Reminder to zaawansowana aplikacja mobilna na Android, zaprojektowana
 - ✅ **Wielojęzyczne** - Wsparcie dla polskiego i angielskiego
 - ✅ **GDPR Compliant** - Pełna zgodność z przepisami o prywatności
 
-### 🚀 Najnowsze Aktualizacje - v1.0.67 (Grudzień 2024)
+### 🚀 Najnowsze Aktualizacje - v1.0.550 (Lipiec 2025)
 
 #### ✨ Nowe Funkcje
 - **Ulepszone Interfejs Użytkownika** - Poprawione doświadczenie użytkownika i design interfejsu
