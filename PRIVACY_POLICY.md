@@ -1,6 +1,6 @@
 # Polityka Prywatności - Smart Bill Reminder / Privacy Policy - Smart Bill Reminder
 
-**Ostatnia aktualizacja / Last Updated:** 19 grudnia 2024 / December 19, 2024  
+**Ostatnia aktualizacja / Last Updated:** 14 lipca 2025 / July 14, 2025  
 **Wersja / Version:** 1.1
 
 ---
@@ -154,7 +154,7 @@ Aplikacja jest zgodna z:
 
 ### 13. Kontakt w Sprawach Prywatności
 
-**Email:** privacy@smartappsfactory.com  
+**Email:** privacy.smartappsfactory@gmail.com  
 **Czas odpowiedzi:** do 30 dni zgodnie z RODO  
 **Język:** polski, angielski
 
@@ -174,7 +174,7 @@ Email: kancelaria@uodo.gov.pl
 This Privacy Policy applies to the mobile application "Smart Bill Reminder" (hereinafter: "App"), developed by Smart Apps Factory (hereinafter: "we", "us", "our"). The App is used for managing bills and payment reminders.
 
 **Data Controller:** Smart Apps Factory  
-**Contact:** privacy@smartappsfactory.com
+**Contact:** privacy.smartappsfactory@gmail.com  
 
 ### 2. Legal Basis for Data Processing
 
