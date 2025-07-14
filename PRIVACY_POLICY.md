@@ -12,7 +12,7 @@
 Niniejsza Polityka Prywatności dotyczy aplikacji mobilnej "Smart Bill Reminder" (dalej: "Aplikacja"), opracowanej przez Smart Apps Factory (dalej: "my", "nas", "nasze"). Aplikacja służy do zarządzania rachunkami i przypomnieniami o płatnościach.
 
 **Administrator danych osobowych:** Smart Apps Factory  
-**Kontakt:** privacy@smartappsfactory.com
+**Kontakt:** privacy.smartappsfactory@gmail.com
 
 ### 2. Podstawa Prawna Przetwarzania Danych
 
@@ -316,7 +316,7 @@ The app complies with:
 
 ### 13. Privacy Contact
 
-**Email:** privacy@smartappsfactory.com  
+**Email:** privacy.smartappsfactory@gmail.com  
 **Response time:** up to 30 days according to GDPR  
 **Languages:** Polish, English
 
