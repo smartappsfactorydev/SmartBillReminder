@@ -169,7 +169,7 @@ Smart Bill Reminder is an advanced Android mobile application designed for moder
 
 #### Contact
 - **🐛 GitHub Issues**: [Report bugs here](https://github.com/smartappsfactorydev/SmartBillReminder/issues)
-- **📧 Email**: support@smartappsfactory.com
+- **📧 Email**: help.smartappsfactory@gmail.com
 - **💬 Languages**: English, Polish
 
 #### FAQ
@@ -386,7 +386,7 @@ Smart Bill Reminder to zaawansowana aplikacja mobilna na Android, zaprojektowana
 
 #### Kontakt
 - **🐛 GitHub Issues**: [Zgłoś błędy tutaj](https://github.com/smartappsfactorydev/SmartBillReminder/issues)
-- **📧 Email**: support@smartappsfactory.com
+- **📧 Email**: help.smartappsfactory@gmail.com
 - **💬 Języki**: Polski, English
 
 #### FAQ
